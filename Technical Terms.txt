@@ -1,0 +1,29 @@
+Technical Terms:
+
+variable arity
+one way data flow
+
+
+cli commands:
+
+npm init
+npm init -y
+
+npm i -D prettier@2.7.1
+
+npm i -D eslint@8.24.0 eslint-config-prettier@8.5.0
+
+npm run lint -- --Debug 
+
+npm run lint --fix
+
+
+
+
+
+
+
+
+
+
+
