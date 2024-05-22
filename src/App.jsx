@@ -1,6 +1,5 @@
 
 import ReactDOM from "react-dom/client";
-import Pet from "./Pet";
 import SearchParams from "./SearchParams";
 
 
