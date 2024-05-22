@@ -2,7 +2,8 @@ Technical Terms:
 
 variable arity
 one way data flow
-
+live code inclusion
+dead code elemination
 
 cli commands:
 
